@@ -1,6 +1,6 @@
 ## 📌 **Smart Attendance System Using RFID**  
 
-![Project Poster](screenshots/pic2.png)  
+![Project Poster](screenshots/pic3.png)  
 
 ### 🔹 **Overview**  
 The **Smart Attendance System Using RFID** is an innovative solution that automates attendance management in educational institutions and workplaces. The system utilizes **RFID technology** to accurately and securely record attendance, preventing proxy attendance and reducing administrative workload.  
