@@ -1,6 +1,6 @@
 ## 📌 **Smart Attendance System Using RFID**  
 
-![Project Poster](attendance_poster.png)  
+![Project Poster](screenshot/pic3.png)  
 
 ### 🔹 **Overview**  
 The **Smart Attendance System Using RFID** is an innovative solution that automates attendance management in educational institutions and workplaces. The system utilizes **RFID technology** to accurately and securely record attendance, preventing proxy attendance and reducing administrative workload.  
@@ -24,7 +24,7 @@ _(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.)_
 ---
 
 ## 🔧 **Circuit Diagram**  
-![Circuit Diagram](image.png)  
+![Circuit Diagram](screenshots/pic1.png)  
 
 ---
 
@@ -59,6 +59,12 @@ python3 main.py
 ✅ **Data Logging & Analytics** – Generates reports for attendance trends.  
 
 ---
+
+## 🔧 **Project Poster**  
+![Circuit Diagram](screenshots/pic2.png)  
+
+---
+
 
 ## 📜 **License**  
 This project is **open-source** under the **MIT License**. Feel free to use and modify it!  
